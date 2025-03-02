@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Davi Lucas Dias Morais
+Matricula: 896337
 
 ## Tela de inspeção com navegador
 
+![Inspeção do Navegador](prntNetwork.png)
 
 ## Tela de projeto no Replit
 
+![Projeto no Replit](helloWorldPrnt.png)
